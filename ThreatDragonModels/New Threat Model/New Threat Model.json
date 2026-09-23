@@ -1,0 +1,28 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-09-23",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Elsa",
+    "description": "Sistem toko online yang memungkinkan customer melakukan registrasi, login, melihat dan memesan produk, serta melakukan pembayaran melalui Payment Gateway. Admin dapat mengelola produk. Sistem menggunakan React sebagai frontend, Node.js REST API sebagai backend, MySQL sebagai database, Redis sebagai cache, dan Email Service untuk mengirim email kepada pengguna.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "anna",
+    "threatTop": 0
+  }
+}
